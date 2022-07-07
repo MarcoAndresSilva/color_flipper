@@ -6,7 +6,7 @@
 
 <h3>summary</h3>
 <h5>set array of colors[]</h5>
-<h5>Add variables btn - color/h5>
+<h5>Add variables btn - color</h5>
 <h5>get random number betwen 0 - numberelementofarray - colors[]</h5>
 <h5>change the background of page and the backgroung number in according to length and position of array[randomNumber]</h5>
 <h5>math.floor(Math.random) to round a random number between the length of array</h5>
